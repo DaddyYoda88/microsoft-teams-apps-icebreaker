@@ -135,7 +135,7 @@
   </data>
   <data name="InstallMessageKnownInstallerPart3" xml:space="preserve">
     <value>By participating in Beverage Breaks we are confident we will exceed the goal of 200 conversations this year!
-      &#09;What do you have to do?
+      &#09;**What do you have to do?**
       &#xA; •	Accept the invite
       &#xA; •	Grab a beverage of your choice
       &#xA; •	Turn your camera on
@@ -156,7 +156,7 @@
   </data>
   <data name="InstallMessageUnknownInstallerPart3" xml:space="preserve">
     <value>By participating in Beverage Breaks we are confident we will exceed the goal of 200 conversations this year!
-      &#xA;What do you have to do?
+      &#xA;**What do you have to do?**
       &#xA; •	Accept the invite
       &#xA; •	Grab a beverage of your choice
       &#xA; •	Turn your camera on
@@ -172,21 +172,21 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>What do you have to do?
+    <value>**What do you have to do?**
 &#xA;	•	Accept the invite and schedule a conversation
 &#xA; •	Grab a beverage of your choice
 &#xA; •	Turn your camera on
 &#xA; •	Have fun, ask questions, make a new friend
 &#xA; •	Please send feedback, questions, or concerns to Amanda Ippolito
 &#xA; 
-&#xA;***Conversation Starters***
-&#xA; •	*What always makes you laugh out loud?*
-&#xA; •	*What was the last thing you geeked-out about?*
-&#xA; •	*Have you ever completed anything on your “bucket list”?*
-&#xA; •	*You can have an unlimited supply of one thing for the rest of your life, what is it?*
-&#xA; •	*If aliens landed on earth today and offered to take you with them, would you go?*
-&#xA; •	*If you could be immortal, what age would you choose to stop aging at and why?*
-&#xA; •	*What was the strangest non-scary dream you ever had?*"
+&#xA;**Conversation Starters**
+&#xA; •	What always makes you laugh out loud?
+&#xA; •	What was the last thing you geeked-out about?
+&#xA; •	Have you ever completed anything on your “bucket list”?
+&#xA; •	You can have an unlimited supply of one thing for the rest of your life, what is it?
+&#xA; •	If aliens landed on earth today and offered to take you with them, would you go?
+&#xA; •	If you could be immortal, what age would you choose to stop aging at and why?
+&#xA; •	What was the strangest non-scary dream you ever had?
 </value>
     <comment>Second part of the match up card main content</comment>
   </data>
