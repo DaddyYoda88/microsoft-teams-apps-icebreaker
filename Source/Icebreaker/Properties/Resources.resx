@@ -172,14 +172,14 @@
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>"What do you have to do?
-&#09;	Accept the invite and schedule a conversation
-&#09; Grab a beverage of your choice
+    <value>What do you have to do?
+&#xA;	Accept the invite and schedule a conversation
+&#xA; Grab a beverage of your choice
 &#xA; •	Turn your camera on
 &#xA; •	Have fun, ask questions, make a new friend
 &#xA; •	Please send feedback, questions, or concerns to Amanda Ippolito
 &#xA; 
-&#xA; &#x20; &#x20; &#x20; &#x20;***Conversation Starters***
+&#xA;***Conversation Starters***
 &#xA; •	*What always makes you laugh out loud?*
 &#xA; •	*What was the last thing you geeked-out about?*
 &#xA; •	*Have you ever completed anything on your “bucket list”?*
