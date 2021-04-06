@@ -130,17 +130,16 @@
     <comment>Install message and also the welcome message when the app installer is known - {0} is the placeholder for the name of the user that has installed the app to the team, and {1} is the placeholder for the name of the team that the app has been installed to</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart2" xml:space="preserve">
-    <value>To reiterate Ankit’s message from the All Hands on Feb 24th Culture is the base of what we do for our patients and it is important to reach out and get connected beyond your team and function. The People and Culture team wants to help you continue nurturing our culture as we grow and evolve. A big piece of this initiative is getting and staying connected with Sperobes who might be outside of your circle. To facilitate connectivity, we are introducing an automated tool called “Beverage Break” which will help Sperobes build personal connections by randomly pairing us every other week. On Mondays, we all will receive a Teams message proposing the 15-30 minute Beverage Break with a fellow Sperobe. The invite will also suggest times that are free on your calendar for both parties to connect.</value>
+    <value>On Feb 24th, we were all reminded to reach out and get connected beyond our team and functions. The People and Culture team partnered with IT and is introducing an automated tool called Beverage Break to help acheive the goal of 200+ conversations this year.  Every other Tuesday at 3PM we all will receive a Teams message proposing the 15-30 minute Beverage Break with a fellow Sperobe. The invite will suggest times that are free on your calendar for both parties to connect, but we ask that you try to have at least one Beverage Break per month.</value>
     <comment>Part 2 of the install message when the name of the installer is known</comment>
   </data>
   <data name="InstallMessageKnownInstallerPart3" xml:space="preserve">
     <value>By participating in Beverage Breaks we are confident we will exceed the goal of 200 conversations this year!
       &#09;**What do you have to do?**
-      &#xA; •	Accept the invite
+      &#xA; •	Accept the invite and schedule your conversation at your convenience (try for at least one Beverage Break a month)
       &#xA; •	Grab a beverage of your choice
-      &#xA; •	Turn your camera on
-      &#xA; •	Have fun, ask questions, make a new friend
-      &#xA; •	And please send us feedback
+      &#xA; •	Keep your camera on, have fun, and make a new friend
+      &#xA; •	Please send feedback/questions to Amanda Ippolito
       &#xA;
       &#xA;**So hang tight! I will send you an invite soon.**
 </value>
@@ -151,42 +150,38 @@
     <comment>Install message and also the welcome message when the app installer is not known - {0} is the placeholder for the name of the team that the app has been installed to</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart2" xml:space="preserve">
-    <value>To reiterate Ankit’s message from the All Hands on Feb 24th Culture is the base of what we do for our patients and it is important to reach out and get connected beyond your team and function. The People and Culture team wants to help you continue nurturing our culture as we grow and evolve. A big piece of this initiative is getting and staying connected with Sperobes who might be outside of your circle. To facilitate connectivity, we are introducing an automated tool called “Beverage Break” which will help Sperobes build personal connections by randomly pairing us every other week. On Mondays, we all will receive a Teams message proposing the 15-30 minute Beverage Break with a fellow Sperobe. The invite will also suggest times that are free on your calendar for both parties to connect.</value>
+    <value>On Feb 24th, we were all reminded to reach out and get connected beyond our team and functions. The People and Culture team partnered with IT and is introducing an automated tool called Beverage Break to help acheive the goal of 200+ conversations this year.  Every other Tuesday at 3PM we all will receive a Teams message proposing the 15-30 minute Beverage Break with a fellow Sperobe. The invite will suggest times that are free on your calendar for both parties to connect, but we ask that you try to have at least one Beverage Break per month.</value>
     <comment>Part 2 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="InstallMessageUnknownInstallerPart3" xml:space="preserve">
     <value>By participating in Beverage Breaks we are confident we will exceed the goal of 200 conversations this year!
-      &#xA;**What do you have to do?**
-      &#xA; •	Accept the invite
+      &#09;**What do you have to do?**
+      &#xA; •	Accept the invite and schedule your conversation at your convenience (try for at least one Beverage Break a month)
       &#xA; •	Grab a beverage of your choice
-      &#xA; •	Turn your camera on
-      &#xA; •	Have fun, ask questions, make a new friend
-      &#xA; •	And please send us feedback
+      &#xA; •	Keep your camera on, have fun, and make a new friend
+      &#xA; •	Please send feedback/questions to Amanda Ippolito
       &#xA;
       &#xA;**So hang tight! I will send you an invite soon.**</value>
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, it's time to connect with a fellow Sperobe and do our part in preserving our culture as we grow! Beverage Break is an automated tool that will randomly pair Sperobes for a 1:1 meeting every other week.
+    <value>Hi there, it's time to connect with a fellow Sperobe and do our part in preserving our culture as we grow! Beverage Break is an automated tool that will randomly pair Sperobes for a 1:1 meeting *every other week*.
     &#xA;We know the importance of taking breaks during our workday, so why not reach out and befriend a new Sperobe?</value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
     <value>**What do you have to do?**
-&#xA;	•	Accept the invite and schedule a conversation
+&#xA;	•	Accept the invite and schedule a conversation at your convenience (try for at least one Beverage Break a month)
 &#xA; •	Grab a beverage of your choice
-&#xA; •	Turn your camera on
-&#xA; •	Have fun, ask questions, make a new friend
+&#xA; •	Keep your camera on, have fun, and make a new friend
 &#xA; •	Please send feedback, questions, or concerns to Amanda Ippolito
 &#xA; 
 &#xA;**Conversation Starters**
-&#xA; •	What always makes you laugh out loud?
 &#xA; •	What was the last thing you geeked-out about?
 &#xA; •	Have you ever completed anything on your “bucket list”?
 &#xA; •	You can have an unlimited supply of one thing for the rest of your life, what is it?
 &#xA; •	If aliens landed on earth today and offered to take you with them, would you go?
 &#xA; •	If you could be immortal, what age would you choose to stop aging at and why?
-&#xA; •	What was the strangest non-scary dream you ever had?
 </value>
     <comment>Second part of the match up card main content</comment>
   </data>
